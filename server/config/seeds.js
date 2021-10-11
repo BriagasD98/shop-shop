@@ -21,7 +21,7 @@ db.once('open', async () => {
       name: 'Tin of Cookies',
       description:
         'Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.',
-      image: 'cookie-tin.jpg',
+      image: 'ac-cobra.jpg',
       category: categories[0]._id,
       price: 2.99,
       quantity: 500
@@ -120,7 +120,7 @@ db.once('open', async () => {
       category: categories[4]._id,
       description:
         'Morbi consectetur viverra urna, eu fringilla turpis faucibus sit amet. Suspendisse potenti. Donec at dui ac sapien eleifend hendrerit vel sit amet lectus.',
-      image: 'alphabet-blocks.jpg',
+      image: 'ac-cobra.jpg',
       price: 9.99,
       quantity: 600
     }
